@@ -51,14 +51,14 @@ img {
 	color: $white;
 	.title {
 		margin: 0.6em 0;
-		font-size: 3.7rem;
+		font-size: 3rem;
 		font-weight: 700;
 	}
 
 	.lower-text {
 		padding: 0.9em;
 		padding-top: 0;
-		font-size: 2rem;
+		font-size: 1.5rem;
 		line-height: 1.7;
 		color: $stats-heading;
 	}
@@ -112,12 +112,12 @@ img {
 		text-align: left;
 
 		.title {
-			font-size: 4.47rem;
+			font-size: 4rem;
 		}
 
 		.lower-text {
 			padding: 0;
-			font-size: 1.9rem;
+			font-size: 1.5rem;
 			color: $stats-heading;
 		}
 	}
